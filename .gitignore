@@ -4,3 +4,5 @@ target/*
 .idea/workspace.xml
 *.iml
 out/*
+netology-test/out/*
+netology-test/target/*
