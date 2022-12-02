@@ -15,9 +15,6 @@ public class NasaApiUser {
     public static final String URI =
             "https://api.nasa.gov/planetary/apod?api_key=ptF7bi9zANvEfl2SX9qbet1Iiv20uytKWKhvkplH";
 
-    // Telegram Key: 5928249571:AAF_BSqW6SQirwlXttf5zGxjN7DR7oULtFA
-    // chat_id: 5336487134
-
     //Сущность, которая будет преобразовывать ответ в наш объект NASA
     public static final ObjectMapper mapper = new ObjectMapper();
 
